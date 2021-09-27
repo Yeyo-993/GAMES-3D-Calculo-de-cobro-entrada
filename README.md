@@ -1,4 +1,4 @@
-# Bienvenido equipo de educa mas este es mi primer ejercicio.
+# Bienvenido equipo de educa mas!
 ## GAMES-3D-Calculo-de-cobro-entrada
 ### Este es un ejercicio de educa mas para la entrevista de prográmate.
 Escribe un código para la empresa "GAMES3D" que tiene salas de juegos para 
